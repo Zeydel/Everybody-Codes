@@ -1,0 +1,201 @@
+ADD id=1 left=[859,P] right=[906,Y]
+ADD id=2 left=[864,M] right=[881,N]
+ADD id=3 left=[878,T] right=[841,F]
+ADD id=4 left=[839,T] right=[826,Z]
+ADD id=5 left=[820,Y] right=[886,M]
+SWAP 2
+ADD id=6 left=[814,Z] right=[893,V]
+ADD id=7 left=[851,M] right=[800,L]
+ADD id=8 left=[792,P] right=[866,V]
+ADD id=9 left=[968,R] right=[942,B]
+ADD id=10 left=[908,G] right=[946,X]
+SWAP 6
+ADD id=11 left=[930,S] right=[899,B]
+ADD id=12 left=[842,W] right=[952,Z]
+ADD id=13 left=[916,N] right=[917,T]
+ADD id=14 left=[823,S] right=[850,V]
+ADD id=15 left=[951,S] right=[921,N]
+SWAP 12
+ADD id=16 left=[844,Z] right=[626,Y]
+ADD id=17 left=[745,T] right=[599,Y]
+ADD id=18 left=[751,T] right=[887,S]
+ADD id=19 left=[755,V] right=[758,J]
+ADD id=20 left=[996,P] right=[556,N]
+SWAP 2
+SWAP 1
+ADD id=21 left=[698,N] right=[571,T]
+ADD id=22 left=[578,Z] right=[597,P]
+ADD id=23 left=[834,W] right=[673,P]
+ADD id=24 left=[807,W] right=[936,M]
+ADD id=25 left=[712,R] right=[953,G]
+SWAP 24
+SWAP 7
+ADD id=26 left=[431,Y] right=[966,W]
+ADD id=27 left=[748,S] right=[932,Z]
+ADD id=28 left=[688,F] right=[819,R]
+ADD id=29 left=[267,J] right=[239,N]
+ADD id=30 left=[557,M] right=[217,H]
+SWAP 14
+SWAP 11
+SWAP 20
+ADD id=31 left=[609,J] right=[586,L]
+ADD id=32 left=[235,S] right=[725,Y]
+ADD id=33 left=[595,W] right=[248,L]
+ADD id=34 left=[602,Y] right=[591,M]
+ADD id=35 left=[577,N] right=[227,Z]
+SWAP 12
+SWAP 32
+SWAP 24
+ADD id=36 left=[643,T] right=[254,N]
+ADD id=37 left=[226,H] right=[229,Q]
+ADD id=38 left=[115,Z] right=[250,M]
+ADD id=39 left=[216,M] right=[256,H]
+ADD id=40 left=[260,P] right=[608,X]
+SWAP 13
+SWAP 25
+SWAP 24
+SWAP 15
+ADD id=41 left=[244,M] right=[191,L]
+ADD id=42 left=[889,N] right=[225,R]
+ADD id=43 left=[228,V] right=[162,L]
+ADD id=44 left=[199,Z] right=[824,G]
+ADD id=45 left=[798,Y] right=[233,T]
+SWAP 26
+SWAP 31
+SWAP 11
+SWAP 19
+ADD id=46 left=[570,Z] right=[206,F]
+ADD id=47 left=[148,F] right=[852,B]
+ADD id=48 left=[193,P] right=[180,H]
+ADD id=49 left=[219,S] right=[266,F]
+ADD id=50 left=[213,Y] right=[106,H]
+SWAP 26
+SWAP 12
+SWAP 13
+SWAP 2
+SWAP 44
+ADD id=51 left=[124,P] right=[127,F]
+ADD id=52 left=[656,S] right=[484,F]
+ADD id=53 left=[236,M] right=[858,Z]
+ADD id=54 left=[870,V] right=[149,H]
+ADD id=55 left=[440,Z] right=[500,J]
+SWAP 29
+SWAP 4
+SWAP 44
+SWAP 43
+SWAP 20
+ADD id=56 left=[606,H] right=[719,N]
+ADD id=57 left=[659,R] right=[561,H]
+ADD id=58 left=[789,S] right=[344,Z]
+ADD id=59 left=[138,P] right=[558,M]
+ADD id=60 left=[625,M] right=[525,R]
+SWAP 39
+SWAP 28
+SWAP 26
+SWAP 27
+SWAP 17
+SWAP 33
+ADD id=61 left=[146,R] right=[605,M]
+ADD id=62 left=[196,M] right=[533,P]
+ADD id=63 left=[628,R] right=[545,Z]
+ADD id=64 left=[529,X] right=[651,U]
+ADD id=65 left=[914,N] right=[243,L]
+SWAP 1
+SWAP 31
+SWAP 10
+SWAP 47
+SWAP 28
+SWAP 36
+ADD id=66 left=[574,A] right=[869,R]
+ADD id=67 left=[613,B] right=[505,Y]
+ADD id=68 left=[693,N] right=[598,W]
+ADD id=69 left=[769,M] right=[359,S]
+ADD id=70 left=[546,Z] right=[382,X]
+SWAP 22
+SWAP 48
+SWAP 9
+SWAP 5
+SWAP 4
+SWAP 31
+SWAP 3
+ADD id=71 left=[786,P] right=[741,W]
+ADD id=72 left=[524,B] right=[112,Y]
+ADD id=73 left=[903,L] right=[614,P]
+ADD id=74 left=[421,F] right=[668,N]
+ADD id=75 left=[265,T] right=[569,S]
+SWAP 3
+SWAP 26
+SWAP 63
+SWAP 15
+SWAP 57
+SWAP 61
+SWAP 70
+ADD id=76 left=[989,T] right=[490,G]
+ADD id=77 left=[963,T] right=[447,P]
+ADD id=78 left=[811,R] right=[543,J]
+ADD id=79 left=[655,G] right=[424,S]
+ADD id=80 left=[257,P] right=[207,N]
+SWAP 23
+SWAP 75
+SWAP 60
+SWAP 63
+SWAP 19
+SWAP 37
+SWAP 15
+SWAP 47
+ADD id=81 left=[679,H] right=[252,T]
+ADD id=82 left=[624,T] right=[649,R]
+ADD id=83 left=[909,X] right=[247,W]
+ADD id=84 left=[364,F] right=[794,Y]
+ADD id=85 left=[964,T] right=[349,F]
+SWAP 80
+SWAP 24
+SWAP 49
+SWAP 68
+SWAP 64
+SWAP 56
+SWAP 40
+SWAP 23
+ADD id=86 left=[827,Z] right=[665,R]
+ADD id=87 left=[494,K] right=[686,L]
+ADD id=88 left=[434,C] right=[388,V]
+ADD id=89 left=[385,M] right=[437,J]
+ADD id=90 left=[157,V] right=[410,X]
+SWAP 89
+SWAP 23
+SWAP 49
+SWAP 12
+SWAP 70
+SWAP 30
+SWAP 79
+SWAP 82
+SWAP 44
+ADD id=91 left=[499,!] right=[456,V]
+ADD id=92 left=[508,N] right=[855,X]
+ADD id=93 left=[167,V] right=[554,F]
+ADD id=94 left=[204,M] right=[426,V]
+ADD id=95 left=[230,S] right=[565,W]
+SWAP 55
+SWAP 80
+SWAP 34
+SWAP 19
+SWAP 17
+SWAP 82
+SWAP 73
+SWAP 4
+SWAP 62
+ADD id=96 left=[263,F] right=[197,M]
+ADD id=97 left=[259,G] right=[242,H]
+ADD id=98 left=[815,L] right=[361,V]
+ADD id=99 left=[661,W] right=[924,G]
+ADD id=100 left=[955,Y] right=[983,W]
+SWAP 69
+SWAP 36
+SWAP 95
+SWAP 7
+SWAP 78
+SWAP 12
+SWAP 13
+SWAP 48
+SWAP 44
+SWAP 30
