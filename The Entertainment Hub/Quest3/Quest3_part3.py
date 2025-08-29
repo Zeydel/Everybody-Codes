@@ -139,24 +139,8 @@ def get_max_coins(dice, track):
             queue.append((nx, ny, die_id, length+1))
             
     # Return size of explored set
-    return len(set(coins_taken))
-    
-
-def pretty_print(coins, track):
-    
-
-    for y in range(len(track)):
-        line = ''
-        for x in range(len(track[y])):
-            
-            if (x, y) in coins:
-                line += '.'
-            else:
-                line += track[y][x]
-        print(line)            
+    return len(set(coins_taken))        
         
-            
-
     
 # Open and parse input
 file = open('input_part3.txt','r')
