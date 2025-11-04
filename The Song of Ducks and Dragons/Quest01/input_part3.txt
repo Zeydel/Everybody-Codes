@@ -1,0 +1,3 @@
+Zraalxar,Jorathhynd,Draithzion,Zarathkael,Maralnoris,Lorzal,Mavnyn,Quortyr,Skarurath,Quororath,Belhynd,Yndendris,Rylarjoris,Norakeldrith,Adalxaril,Drelox,Mavgnar,Elarnor,Ulkaxar,Vornsar,Brythlyr,Caloth,Morgyth,Rythtaril,Morkris,Quarnindor,Urithiral,Xendfeth,Naldthel,Brynsor
+
+L42,R16,L26,R20,L15,R47,L32,R42,L32,R31,L43,R16,L16,R42,L20,R23,L30,R43,L36,R41,L5,R5,L5,R37,L5,R27,L5,R30,L5,R31,L5,R40,L5,R42,L5,R7,L5,R43,L5,R32,L10,R28,L22,R23,L28,R39,L18,R22,L46,R13,L24,R16,L25,R45,L6,R5,L42,R15,L35
