@@ -1,0 +1,28 @@
+Ardenisis,Gaerxel,Ilmarthar,Glynnisis,Ardenjor,Glynnthar,Gaerural,Malnixis,Ardenthar,Maliththar,Anornixis,Glynnxel,Malithnixis,Malural,Anorcarth,Glynnjor,Ardencarth,Ilmarzyth,Malisis,Malxel,Cragnixis,Ilmarxelor,Malithzyth,Malithural,Gaerisis,Tarlthar,Tarlnixis,Ilmarjor,Anorisis,Ilmarcarth,Falthar,Gaerthar,Anorxelor,Anorural,Falural,Tarlisis,Anorxel,Cragjor,Cragthar,Glynnnixis,Falisis,Anorthar,Falthar,Maljor,Falnixis,Glynnural,Falcarth,Tarljor,Tarlcarth,Gaerzyth,Malzyth,Glynnzyth,Malthar,Malithcarth,Maliththar,Cragthar,Gaernixis,Ilmarural,Malthar,Ilmarxel,Malithxel,Falzyth,Tarlxel,Cragisis,Cragxelor,Ardenthar,Glynnthar,Tarlxelor,Ilmarisis,Glynncarth,Falxel,Malxelor,Ardenxelor,Gaercarth,Malcarth,Cragcarth,Cragxel,Gaerthar,Faljor,Anorjor,Ardenural,Cragural,Malithisis,Cragzyth,Glynnxelor,Ardenzyth,Gaerxelor,Ardennixis,Anorzyth,Malithxelor,Ilmarnixis,Tarlthar,Gaerjor,Tarlzyth,Ardenxel,Falxelor,Malithjor,Ilmarthar,Tarlural,Anorthar
+
+g > i,t,n,x,c,z,u,j
+r > u,a,t,l,i,n,x,c,z,j,v
+e > r,l,n
+u > r
+j > o
+z > y
+l > v,o,i,t,n,x,c,z,u,j
+F > a
+o > r
+y > n,t
+m > a
+C > r
+T > a
+A > n,r
+t > h
+d > e
+h > a,i,t,n,x,c,z,u,j
+s > i
+a > e,l,r,v,g
+x > i,e
+I > l
+G > a,l
+c > a
+M > a
+n > n,i,t,x,c,z,u,j,v
+i > s,x,t

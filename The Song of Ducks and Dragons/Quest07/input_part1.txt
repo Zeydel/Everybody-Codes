@@ -1,0 +1,16 @@
+Kycyth,Aurethyris,Mavcyth,Kyfal,Aurefal,Mavfal,Kythyris,Mavthyris,Aurecyth
+
+c > y
+v > t,f,c
+i > s
+h > y
+u > b
+t > h
+a > l,b
+A > u
+r > i,e
+y > t,r,b
+M > a
+e > t,f,c
+f > a
+K > y
